@@ -1,6 +1,6 @@
 {
   "name": "@warren-bank/mkdir-sync",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "lib/mkdirSync.js",
   "description": "Polyfill library for 'fs.mkdirSync()' to support the 'recursive' option in versions of Node.js older than v10.12.0",
   "author": "Warren Bank (https://github.com/warren-bank)",
